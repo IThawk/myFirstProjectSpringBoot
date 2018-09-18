@@ -11,6 +11,8 @@ import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.data.redis.serializer.GenericJackson2JsonRedisSerializer;
 import org.springframework.data.redis.serializer.StringRedisSerializer;
 import org.springframework.util.CollectionUtils;
+import redis.clients.jedis.Jedis;
+import redis.clients.jedis.JedisPool;
 import redis.clients.jedis.JedisPoolConfig;
 
 public class RedisUtil {
@@ -593,11 +595,20 @@ public class RedisUtil {
         redisTemplate.setConnectionFactory(JedisConnectionFactory);
 
 
-        RedisUtil redisUtil = new RedisUtil();
-        redisUtil.setRedisTemplate(redisTemplate);
-        redisUtil.setStringKay("123", "111", 300);
+        /*java 代码直接使用  redis   主要用于测试redis的启动问题*/
 
-        System.out.println(redisUtil.get("123"));
+        JedisPool jedisPool=new JedisPool(jedisPoolConfig,"127.0.0.1",6379);
+        Jedis jedis = jedisPool.getResource();
+        jedis.auth("123456");
+        jedis.set("1223","11");
+        jedis.get("1223");
+
+
+       /* RedisUtil redisUtil = new RedisUtil();
+        redisUtil.setRedisTemplate(redisTemplate);
+        redisUtil.setStringKay("123", "111", 300);*/
+
+        System.out.println(jedis.get("1223"));
     }
 
 
