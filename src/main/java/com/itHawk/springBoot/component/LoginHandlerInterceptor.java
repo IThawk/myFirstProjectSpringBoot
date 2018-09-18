@@ -13,6 +13,7 @@ public class LoginHandlerInterceptor implements HandlerInterceptor {
     //目标方法执行之前
     @Override
     public boolean preHandle(HttpServletRequest request, HttpServletResponse response, Object handler) throws Exception {
+        //获取请求的路径，用于控制请求的拦截
         String requestURI = request.getRequestURI();
         if (requestURI.equals("/crud/user/register")) {
             //已登陆，放行请求

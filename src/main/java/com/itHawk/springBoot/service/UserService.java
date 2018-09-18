@@ -11,5 +11,12 @@ public interface UserService {
      * @return
      */
     User selectByUserNameAndPassWord(String username,String password);
-    int addUser(String username,String password);
+
+    int addUser(User user);
+
+    int updateUser(User user,String oldPassword);
+
+    void logoutUser();
+
+
 }

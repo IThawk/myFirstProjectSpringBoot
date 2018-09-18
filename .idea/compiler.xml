@@ -9,8 +9,5 @@
         <module name="myFirstProjectSpringBoot" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="spring-boot-04-web-restfulcrud" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>

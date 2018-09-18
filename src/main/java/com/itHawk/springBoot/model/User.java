@@ -4,6 +4,7 @@ import org.apache.ibatis.annotations.Mapper;
 
 @Mapper
 public class User {
+    public static final String USER_ENC0DE_RULE="ithawk_user_encrypt_rule";
     public User() {
 
     }

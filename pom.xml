@@ -33,7 +33,6 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
-
 		</dependency>
 
 		<!--引入其他的Servlet容器-->
@@ -99,6 +98,11 @@
 			<groupId>com.github.pagehelper</groupId>
 			<artifactId>pagehelper</artifactId>
 			<version>4.1.0</version>
+		</dependency>
+		<dependency>
+			<groupId>com.google.crypto.tink</groupId>
+			<artifactId>tink</artifactId>
+			<version>HEAD-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
 
