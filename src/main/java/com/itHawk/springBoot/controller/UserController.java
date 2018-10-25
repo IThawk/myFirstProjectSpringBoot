@@ -65,7 +65,7 @@ public class UserController {
     @GetMapping(value = "/user/register")
     public String login() {
         //之间跳转到注册页面
-        return "redirect:/success.html";
+        return "redirect:/register.html";
 
     }
 

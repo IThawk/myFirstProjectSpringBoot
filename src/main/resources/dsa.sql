@@ -17,3 +17,4 @@ CREATE TABLE `user` (
   KEY `inx_user_id` (`id`) USING BTREE,
   KEY `inx_user_name` (`user_name`) USING BTREE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+INSERT INTO `user`VALUES (1, 'root', NULL, NULL, NULL, NULL, NULL, NULL, '7ycBFnpIfXYfQog65JWWpA==', NULL, NULL, NULL);

@@ -100,10 +100,11 @@
 			<version>4.1.0</version>
 		</dependency>
 		<!--google加密-->
+		<!-- https://mvnrepository.com/artifact/com.google.crypto.tink/tink -->
 		<dependency>
 			<groupId>com.google.crypto.tink</groupId>
 			<artifactId>tink</artifactId>
-			<version>HEAD-SNAPSHOT</version>
+			<version>1.2.0</version>
 		</dependency>
 
 		<!-- 整合redis -->

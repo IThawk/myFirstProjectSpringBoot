@@ -12,6 +12,7 @@
 		<link href="asserts/css/signin.css" th:href="@{/asserts/css/signin.css}" rel="stylesheet">
     </head>
 	<body class="text-center">
+	<div>
 		<form class="form-signin" action="dashboard.html" th:action="@{/user/login}" method="post">
 			<!--<img class="mb-4" th:src="@{/asserts/img/bootstrap-solid.svg}" src="asserts/img/bootstrap-solid.svg" alt="" width="72" height="72">-->
             <img class="mb-4" th:src="@{/asserts/img/touxiang.jpg}" src="asserts/img/touxiang.jpg" alt="" width="100" height="100">
@@ -32,10 +33,11 @@
 		<form class="form-register" action="success.html" th:action="@{/user/register}" method="get">
 			<button class="btn btn-lg btn-primary btn-block" type="submit" th:text="#{register.btn}" >register</button>
 		</form>
-
-            <p class="mt-5 mb-3 text-muted">© 2017-2018</p>
+		<p class="mt-5 mb-3 text-muted">© 2017-2018</p>
 		<a class="btn btn-sm" th:href="@{/index.html(l='zh_CN')}">中文</a>
 		<a class="btn btn-sm" th:href="@{/index.html(l='en_US')}">English</a>
+	</div>
+
 	</body>
 
 </html>

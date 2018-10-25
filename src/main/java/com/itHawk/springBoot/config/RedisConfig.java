@@ -1,7 +1,8 @@
 package com.itHawk.springBoot.config;
 
-import com.google.api.client.util.Value;
+
 import com.itHawk.springBoot.utils.RedisUtil;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.PropertySource;
