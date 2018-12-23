@@ -2,9 +2,176 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee4cabe1-7174-44d0-8b2e-80220fcd4c45" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/utils/PropertyUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/constant.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/resourceBundles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_blank/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_blank/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_blank/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_blank/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_blank/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_blank/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_blank/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_blank/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_blank/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_blank/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_blank/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_blank/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_blank/src/registerServiceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_blank/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_demo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_demo/.idea/react_demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_demo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_demo/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_demo/history_test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_demo/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_demo/public/comment_page/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_demo/public/comment_page/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_demo/public/comment_page/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_demo/public/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_demo/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_demo/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_demo/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_demo/public/users_page/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_demo/public/users_page/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_demo/public/users_page/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_demo/src-comment/components/app/app.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_demo/src-comment/components/comment-add/comment-add.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_demo/src-comment/components/comment-item/comment-item.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_demo/src-comment/components/comment-item/commentItem.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_demo/src-comment/components/comment-list/comment-list.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_demo/src-comment/components/comment-list/commentList.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_demo/src-comment/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_demo/src-users/components/app.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_demo/src-users/components/search.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_demo/src-users/components/user-list.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_demo/src-users/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_demo/src-users/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_demo/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_redux/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_redux/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_redux/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_redux/public/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_redux/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_redux/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_redux/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_redux/src-comment/components/app/app.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_redux/src-comment/components/comment-add/comment-add.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_redux/src-comment/components/comment-item/comment-item.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_redux/src-comment/components/comment-item/commentItem.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_redux/src-comment/components/comment-list/comment-list.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_redux/src-comment/components/comment-list/commentList.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_redux/src-comment/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_redux/src-comment/redux/action-types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_redux/src-comment/redux/actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_redux/src-comment/redux/reducers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_redux/src-comment/redux/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_redux/src-count1_react/components/app.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_redux/src-count1_react/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_redux/src-count2_redux/components/app.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_redux/src-count2_redux/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_redux/src-count2_redux/redux/action-types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_redux/src-count2_redux/redux/actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_redux/src-count2_redux/redux/reducers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_redux/src-count3_react-redux/components/counter.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_redux/src-count3_react-redux/containers/app.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_redux/src-count3_react-redux/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_redux/src-count3_react-redux/redux/action-types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_redux/src-count3_react-redux/redux/actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_redux/src-count3_react-redux/redux/reducers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_redux/src-count4_redux-async/components/counter.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_redux/src-count4_redux-async/containers/app.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_redux/src-count4_redux-async/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_redux/src-count4_redux-async/redux/action-types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_redux/src-count4_redux-async/redux/actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_redux/src-count4_redux-async/redux/reducers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_redux/src-count4_redux-async/redux/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_redux/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_router/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_router/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_router/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_router/.idea/react_router.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_router/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_router/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_router/history_test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_router/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_router/public/comment_page/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_router/public/comment_page/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_router/public/comment_page/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_router/public/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_router/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_router/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_router/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_router/public/users_static/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_router/public/users_static/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_router/public/users_static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_router/src/components/app.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_router/src/components/my-nav-link.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_router/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_router/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_router/src/views/about.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_router/src/views/home.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_router/src/views/message-detail.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_router/src/views/message.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_router/src/views/news.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_router/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_test/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_test/prepare/01_HelloWorld/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_test/prepare/02_JSX/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_test/prepare/02_JSX/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_test/prepare/03_component_basic/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_test/prepare/04_component_state/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_test/prepare/05_component_props/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_test/prepare/06_component_refs_event/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_test/prepare/07_components_composing/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_test/prepare/08_component_form/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_test/prepare/09_component_lifecycle/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_test/prepare/10_vDOM-DOM Diff/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_test/prepare/11_ajax/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_test/prepare/12_key/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_test/prepare/js/babel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_test/prepare/js/prop-types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_test/prepare/js/react-dom.development.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_test/prepare/js/react.development.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_test/work/01_HelloWorld/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_test/work/02_JSX/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_test/work/02_JSX/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_test/work/03_component_basic/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_test/work/04_component_state/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_test/work/05_component_props/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_test/work/06_component_refs_event/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_test/work/07_components_composing/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_test/work/08_component_form/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_test/work/09_component_lifecycle/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_test/work/10_vDOM-DOM Diff/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_test/work/11_ajax/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_test/work/12_key/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_test/work/js/babel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_test/work/js/react-dom.development.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_test/work/js/react.development.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_ui/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_ui/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_ui/config-overrides.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_ui/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_ui/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_ui/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_ui/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_ui/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_ui/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/react_ui/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/code/说明.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/note/01_react_笔记.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/note/02_react案例_笔记.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/note/03_react-router_教程.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/note/04_react-UI_教程.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/note/05_redux笔记.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/课件.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/utils/RedisUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/utils/RedisUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config/redis.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config/redis.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,23 +183,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PropertyUtils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/utils/PropertyUtils.java">
+      <file leaf-file-name="RedisUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/utils/RedisUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="902">
-              <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="225">
+              <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Object.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Program Files/JDK/jdk1.8X32/src.zip!/java/lang/Object.java">
+      <file leaf-file-name="RedisTemplate.class" pinned="false" current-in-tab="true">
+        <entry file="jar://D:/mavenCentersss/org/springframework/data/spring-data-redis/1.8.10.RELEASE/spring-data-redis-1.8.10.RELEASE.jar!/org/springframework/data/redis/core/RedisTemplate.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="902">
-              <caret line="64" column="7" selection-start-line="64" selection-start-column="7" selection-end-line="64" selection-end-column="7" />
+            <state relative-caret-position="200">
+              <caret line="277" selection-start-line="277" selection-end-line="277" />
             </state>
           </provider>
         </entry>
@@ -40,60 +204,35 @@
       <file leaf-file-name="constant.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/constant.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" column="68" selection-start-line="1" selection-start-column="68" selection-end-line="1" selection-end-column="68" />
+            <state relative-caret-position="25">
+              <caret line="1" column="78" selection-start-line="1" selection-start-column="78" selection-end-line="1" selection-end-column="78" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyListener.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/listener/MyListener.java">
+      <file leaf-file-name="springmvc.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/springmvc.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="325">
+              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dashboard.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/static/asserts/css/dashboard.css">
+      <file leaf-file-name="Jedis.class" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/mavenCentersss/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/Jedis.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="350">
+              <caret line="41" column="20" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HelloController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/controller/HelloController.java">
+      <file leaf-file-name="JedisPool.class" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/mavenCentersss/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/JedisPool.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SmallTollServiceImpl.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/service/impl/SmallTollServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#dateToStamp#0;class#SmallTollServiceImpl#0" />
-                <element signature="method#stampToDate#0;class#SmallTollServiceImpl#0" />
-                <element signature="docComment;method#sixteen2Two#0;class#SmallTollServiceImpl#0" />
-                <element signature="method#sixteen2Two#0;class#SmallTollServiceImpl#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/controller/UserController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="29" selection-start-line="29" selection-end-line="30" selection-end-column="56" />
+            <state relative-caret-position="1775">
+              <caret line="88" column="11" selection-start-line="88" selection-start-column="11" selection-end-line="88" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -120,7 +259,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/component/LoginHandlerInterceptor.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/controller/LoginController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/model/User.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/dao/UserMapper.java" />
@@ -128,14 +266,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/utils/SessionName.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/service/impl/UserServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/service/UserService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/controller/UserController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/utils/EncryptUtils.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/dsa.sql" />
-        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/config/RedisConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/config/redis.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/utils/TokenUtils.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/utils/RedisUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/component/SmallToolController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/utils/TimeUtils.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/model/ActionResult.java" />
@@ -145,11 +277,23 @@
         <option value="$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/utils/NumUtils.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/service/SmallTollService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/service/impl/SmallTollServiceImpl.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/utils/ImageChangeUtils.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/utils/BaiduUtils.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/utils/PropertyUtils.java" />
         <option value="$PROJECT_DIR$/src/main/resources/constant.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/config/RedisConfig.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/login.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/i18n/login.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/dsa.sql" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/component/LoginHandlerInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/config/MyMvcConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/i18n/login_zh_CN.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/register.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/utils/RedisUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/config/redis.properties" />
       </list>
     </option>
   </component>
@@ -158,6 +302,13 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Program Files/apache-maven/apache-maven-3.5.3" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
@@ -176,34 +327,37 @@
           <item name="myFirstProjectSpringBoot" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
         </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="myFirstProjectSpringBoot" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-          <item name="com.google.crypto.tink:tink:HEAD-SNAPSHOT" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-        </path>
       </expand>
       <select />
     </treeState>
   </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/src/react/code/react_blank/node_modules" />
+    <handled-path value="$PROJECT_DIR$/src/react/code/react_demo/node_modules" />
+    <handled-path value="$PROJECT_DIR$/src/react/code/react_redux/node_modules" />
+    <handled-path value="$PROJECT_DIR$/src/react/code/react_router/node_modules" />
+    <handled-path value="$PROJECT_DIR$/src/react/code/react_ui/node_modules" />
+  </component>
   <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/src/react/code/react_blank/package.json" />
+      <path value="$PROJECT_DIR$/src/react/code/react_demo/package.json" />
+      <path value="$PROJECT_DIR$/src/react/code/react_redux/package.json" />
+      <path value="$PROJECT_DIR$/src/react/code/react_router/package.json" />
+      <path value="$PROJECT_DIR$/src/react/code/react_ui/package.json" />
+    </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="36" />
-    <option name="width" value="1918" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="width" value="1686" />
+    <option name="height" value="997" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -216,127 +370,12 @@
               <item name="myFirstProjectSpringBoot" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="myFirstProjectSpringBoot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myFirstProjectSpringBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myFirstProjectSpringBoot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myFirstProjectSpringBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myFirstProjectSpringBoot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myFirstProjectSpringBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springBoot" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myFirstProjectSpringBoot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myFirstProjectSpringBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myFirstProjectSpringBoot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myFirstProjectSpringBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="filter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myFirstProjectSpringBoot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myFirstProjectSpringBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="listener" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myFirstProjectSpringBoot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myFirstProjectSpringBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myFirstProjectSpringBoot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myFirstProjectSpringBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myFirstProjectSpringBoot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myFirstProjectSpringBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="servlet" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myFirstProjectSpringBoot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myFirstProjectSpringBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myFirstProjectSpringBoot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myFirstProjectSpringBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myFirstProjectSpringBoot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myFirstProjectSpringBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="asserts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myFirstProjectSpringBoot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myFirstProjectSpringBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="asserts" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myFirstProjectSpringBoot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myFirstProjectSpringBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -350,14 +389,17 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Teddy-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.itHawk.springBoot.service.impl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\idea\myFirstProjectSpringBoot\src\main\resources\templates" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -372,7 +414,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TimeUtils">
+  <component name="RunManager" selected="Application.RedisUtil">
+    <configuration name="RedisUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itHawk.springBoot.utils.RedisUtil" />
+      <module name="myFirstProjectSpringBoot" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itHawk.springBoot.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="TimeUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.itHawk.springBoot.utils.TimeUtils" />
       <module name="myFirstProjectSpringBoot" />
@@ -490,9 +543,11 @@
     <list>
       <item itemvalue="Spring Boot.SpringBoot04WebRestfulcrudApplication" />
       <item itemvalue="Application.TimeUtils" />
+      <item itemvalue="Application.RedisUtil" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RedisUtil" />
         <item itemvalue="Application.TimeUtils" />
       </list>
     </recent_temporary>
@@ -519,6 +574,10 @@
       <workItem from="1538270398559" duration="581000" />
       <workItem from="1538964099084" duration="907000" />
       <workItem from="1539048479579" duration="1693000" />
+      <workItem from="1540517101434" duration="785000" />
+      <workItem from="1540790151851" duration="7429000" />
+      <workItem from="1542626960042" duration="587000" />
+      <workItem from="1545577800982" duration="1675000" />
     </task>
     <task id="LOCAL-00001" summary="增加用户的一些其他操作，和加密工具类">
       <created>1537265141703</created>
@@ -541,11 +600,18 @@
       <option name="project" value="LOCAL" />
       <updated>1537932411242</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="增加一些注释信息以及添加注册页面">
+      <created>1540455993226</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1540455993226</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37196000" />
+    <option name="totallyTimeSpent" value="55971000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -557,7 +623,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="36" y="0" width="1918" height="1038" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -569,26 +635,26 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978212" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991276" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32897604" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32897604" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32897604" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.30643404" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32824427" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25618947" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3293348" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22654584" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32897604" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32897604" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -603,116 +669,60 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="增加用户的一些其他操作，和加密工具类" />
     <MESSAGE value="增加Redis的一些类和方法" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加Redis的一些类和方法" />
+    <MESSAGE value="增加一些注释信息以及添加注册页面" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加一些注释信息以及添加注册页面" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/component/LoginHandlerInterceptor.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/utils/RedisUtil.java</url>
+          <line>574</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/utils/RedisUtil.java</url>
+          <line>601</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="8" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/controller/UserController.java">
+    <entry file="jar://D:/mavenCentersss/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/Jedis.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="29" selection-start-line="29" selection-end-line="30" selection-end-column="56" />
+        <state relative-caret-position="1025">
+          <caret line="41" column="20" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/mavenCentersss/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/JedisPool.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1775">
+          <caret line="88" column="11" selection-start-line="88" selection-start-column="11" selection-end-line="88" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/mavenCentersss/org/springframework/data/spring-data-redis/1.8.10.RELEASE/spring-data-redis-1.8.10.RELEASE.jar!/org/springframework/data/redis/core/RedisTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6650">
+          <caret line="266" column="94" lean-forward="true" selection-start-line="266" selection-start-column="94" selection-end-line="266" selection-end-column="95" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/service/impl/SmallTollServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#dateToStamp#0;class#SmallTollServiceImpl#0" />
-            <element signature="method#stampToDate#0;class#SmallTollServiceImpl#0" />
-            <element signature="docComment;method#sixteen2Two#0;class#SmallTollServiceImpl#0" />
-            <element signature="method#sixteen2Two#0;class#SmallTollServiceImpl#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3520">
-          <caret line="160" column="14" selection-start-line="160" selection-start-column="14" selection-end-line="160" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/JedisPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4950">
-          <caret line="225" column="4" selection-start-line="225" selection-start-column="4" selection-end-line="225" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/utils/TokenUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/config/RedisConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1408">
-          <caret line="64" column="21" lean-forward="true" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/config/redis.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/config/MyMvcConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/utils/RedisUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13134">
-          <caret line="597" column="47" selection-start-line="597" selection-start-column="47" selection-end-line="597" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/static/asserts/js/Chart.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="9" column="23491" selection-start-line="9" selection-start-column="23491" selection-end-line="9" selection-end-column="23491" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/dashboard.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="97" column="33" selection-start-line="97" selection-start-column="30" selection-end-line="97" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/component/LoginHandlerInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-22">
-          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/component/MyErrorAttributes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mapping/UserMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+        <state relative-caret-position="462">
+          <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -723,265 +733,323 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/model/User.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/dao/EmployeeDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        <state relative-caret-position="125">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/utils/SessionName.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/dao/DepartmentDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/utils/EncryptUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="146" column="40" lean-forward="true" selection-start-line="146" selection-start-column="40" selection-end-line="146" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/dsa.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/service/impl/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/config/redis.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/config/MyMvcConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        <state relative-caret-position="150">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/config/RedisConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1188">
-          <caret line="64" column="21" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
+        <state relative-caret-position="-2750">
+          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/JedisPool.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/utils/EncryptUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4576">
-          <caret line="225" column="4" selection-start-line="225" selection-start-column="4" selection-end-line="225" selection-end-column="17" />
+        <state relative-caret-position="65">
+          <caret line="143" column="49" selection-start-line="143" selection-start-column="49" selection-end-line="143" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Client.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/model/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2376">
-          <caret line="160" column="14" selection-start-line="160" selection-start-column="14" selection-end-line="160" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Jedis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12870">
-          <caret line="616" column="15" selection-start-line="616" selection-start-column="15" selection-end-line="616" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/utils/RedisUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1353">
-          <caret line="593" column="56" lean-forward="true" selection-start-line="593" selection-start-column="56" selection-end-line="593" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="5" column="16" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/utils/TokenUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/utils/TimeUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="44" column="32" lean-forward="true" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/controller/EmployeeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/utils/HttpCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="44" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/model/ActionResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/controller/SmallToolController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/utils/NumUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1210">
-          <caret line="229" column="32" selection-start-line="229" selection-start-column="25" selection-end-line="229" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/service/SmallTollService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="45" column="27" selection-start-line="45" selection-start-column="27" selection-end-line="45" selection-end-column="27" />
+        <state relative-caret-position="-1610">
+          <caret line="6" column="73" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="73" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2662">
-          <caret line="121" column="11" selection-start-line="121" selection-start-column="11" selection-end-line="121" selection-end-column="11" />
+        <state relative-caret-position="500">
+          <caret line="107" column="21" selection-start-line="107" selection-start-column="21" selection-end-line="107" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/utils/ImageChangeUtils.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/success.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1012">
-          <caret line="51" column="4" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
+        <state relative-caret-position="-225" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2625">
+          <caret line="105" column="47" lean-forward="true" selection-start-line="105" selection-start-column="47" selection-end-line="105" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/com/baidu/aip/java-sdk/4.6.1/java-sdk-4.6.1.jar!/com/baidu/aip/ocr/AipOcr.class">
+    <entry file="jar://D:/mavenCentersss/org/springframework/spring-web/4.3.14.RELEASE/spring-web-4.3.14.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        <state relative-caret-position="192">
+          <caret line="133" selection-start-line="133" selection-end-line="133" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/com/baidu/aip/java-sdk/4.6.1/java-sdk-4.6.1.jar!/com/baidu/aip/util/Util.class">
+    <entry file="jar://D:/mavenCentersss/ch/qos/logback/logback-classic/1.1.11/logback-classic-1.1.11-sources.jar!/ch/qos/logback/classic/LoggerContext.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="64" column="53" lean-forward="true" selection-start-line="64" selection-start-column="53" selection-end-line="64" selection-end-column="53" />
+        <state relative-caret-position="200">
+          <caret line="266" selection-start-line="266" selection-end-line="266" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/utils/BaiduUtils.java">
+    <entry file="jar://D:/mavenCentersss/ch/qos/logback/logback-classic/1.1.11/logback-classic-1.1.11-sources.jar!/ch/qos/logback/classic/Logger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="44" column="37" selection-start-line="44" selection-start-column="37" selection-end-line="44" selection-end-column="37" />
+        <state relative-caret-position="167">
+          <caret line="750" selection-start-line="750" selection-end-line="750" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/controller/UserController.java">
+    <entry file="jar://D:/mavenCentersss/org/slf4j/jcl-over-slf4j/1.7.25/jcl-over-slf4j-1.7.25-sources.jar!/org/apache/commons/logging/impl/SLF4JLocationAwareLog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="29" selection-start-line="29" selection-end-line="30" selection-end-column="56" />
+        <state relative-caret-position="175">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25-sources.jar!/org/slf4j/LoggerFactory.java">
+    <entry file="jar://D:/mavenCentersss/org/springframework/spring-webmvc/4.3.14.RELEASE/spring-webmvc-4.3.14.RELEASE-sources.jar!/org/springframework/web/servlet/handler/ConversionServiceExposingInterceptor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="381" column="25" selection-start-line="381" selection-start-column="25" selection-end-line="381" selection-end-column="25" />
+        <state relative-caret-position="275">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Program Files/JDK/jdk1.8X32/src.zip!/java/lang/Object.java">
+    <entry file="jar://D:/mavenCentersss/org/apache/tomcat/embed/tomcat-embed-core/8.5.27/tomcat-embed-core-8.5.27-sources.jar!/org/apache/catalina/core/StandardContext.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="902">
-          <caret line="64" column="7" selection-start-line="64" selection-start-column="7" selection-end-line="64" selection-end-column="7" />
+        <state relative-caret-position="175">
+          <caret line="1256" selection-start-line="1256" selection-end-line="1256" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/utils/PropertyUtils.java">
+    <entry file="jar://D:/mavenCentersss/org/apache/tomcat/embed/tomcat-embed-core/8.5.27/tomcat-embed-core-8.5.27-sources.jar!/org/apache/catalina/connector/Request.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="902">
-          <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="167">
+          <caret line="1541" selection-start-line="1541" selection-end-line="1541" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/constant.properties">
+    <entry file="jar://D:/mavenCentersss/org/apache/tomcat/embed/tomcat-embed-core/8.5.27/tomcat-embed-core-8.5.27-sources.jar!/org/apache/catalina/connector/RequestFacade.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="68" selection-start-line="1" selection-start-column="68" selection-end-line="1" selection-end-column="68" />
+        <state relative-caret-position="325">
+          <caret line="540" selection-start-line="540" selection-end-line="540" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/mavenCentersss/org/springframework/spring-webmvc/4.3.14.RELEASE/spring-webmvc-4.3.14.RELEASE-sources.jar!/org/springframework/web/servlet/resource/ResourceUrlProviderExposingInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/mavenCentersss/org/springframework/spring-webmvc/4.3.14.RELEASE/spring-webmvc-4.3.14.RELEASE-sources.jar!/org/springframework/web/servlet/HandlerExecutionChain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="136" selection-start-line="136" selection-end-line="136" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/servlet/MyServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="8" selection-start-line="8" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="23" column="71" selection-start-line="23" selection-start-column="63" selection-end-line="23" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/dsa.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/component/MyErrorAttributes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/component/MyLocaleResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/config/MyMvcConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="33" column="69" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/config/MyServerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="21" column="92" selection-start-line="21" selection-start-column="83" selection-end-line="21" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/filter/MyFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/listener/MyListener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
+        <state relative-caret-position="100">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/static/asserts/css/dashboard.css">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/exception/UserNotExistException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="100">
+          <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/controller/HelloController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/model/ActionResult.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        <state relative-caret-position="400">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/service/impl/SmallTollServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/service/impl/UserServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#dateToStamp#0;class#SmallTollServiceImpl#0" />
-            <element signature="method#stampToDate#0;class#SmallTollServiceImpl#0" />
-            <element signature="docComment;method#sixteen2Two#0;class#SmallTollServiceImpl#0" />
-            <element signature="method#sixteen2Two#0;class#SmallTollServiceImpl#0" />
-          </folding>
+        <state relative-caret-position="2350">
+          <caret line="100" column="53" selection-start-line="100" selection-start-column="53" selection-end-line="100" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="28" column="78" selection-start-line="28" selection-start-column="78" selection-end-line="28" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/component/LoginHandlerInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="59" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/mavenCentersss/org/springframework/spring-webmvc/4.3.14.RELEASE/spring-webmvc-4.3.14.RELEASE-sources.jar!/org/springframework/web/servlet/HandlerInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/mavenCentersss/org/springframework/spring-webmvc/4.3.14.RELEASE/spring-webmvc-4.3.14.RELEASE-sources.jar!/org/springframework/web/servlet/handler/HandlerInterceptorAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="66" column="19" selection-start-line="66" selection-start-column="19" selection-end-line="66" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/controller/SmallToolController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/mavenCentersss/org/apache/commons/commons-pool2/2.4.3/commons-pool2-2.4.3.jar!/org/apache/commons/pool2/impl/BaseObjectPoolConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="153" selection-start-line="153" selection-end-line="153" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/mavenCentersss/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/Connection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="193" column="35" lean-forward="true" selection-start-line="193" selection-start-column="35" selection-end-line="193" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/mavenCentersss/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/JedisPool.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1775">
+          <caret line="88" column="11" selection-start-line="88" selection-start-column="11" selection-end-line="88" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/constant.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="78" selection-start-line="1" selection-start-column="78" selection-end-line="1" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/redis.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="37" column="27" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/mavenCentersss/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/Jedis.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="41" column="20" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itHawk/springBoot/utils/RedisUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/mavenCentersss/org/springframework/data/spring-data-redis/1.8.10.RELEASE/spring-data-redis-1.8.10.RELEASE.jar!/org/springframework/data/redis/core/RedisTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="277" selection-start-line="277" selection-end-line="277" />
         </state>
       </provider>
     </entry>

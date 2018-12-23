@@ -17,7 +17,9 @@ import redis.clients.jedis.JedisPoolConfig;
 
 public class RedisUtil {
 
-
+    /**
+     * 获取spring提供的RedisTemple类对redis进行操作
+     */
     private RedisTemplate<String, Object> redisTemplate;
 
     public void setRedisTemplate(RedisTemplate<String, Object> redisTemplate) {
@@ -571,11 +573,11 @@ public class RedisUtil {
     public static void main(String[] args) {
 
         JedisPoolConfig jedisPoolConfig = new JedisPoolConfig();
-        JedisConnectionFactory JedisConnectionFactory = new JedisConnectionFactory(jedisPoolConfig);
+      /*  JedisConnectionFactory JedisConnectionFactory = new JedisConnectionFactory(jedisPoolConfig);
         //连接池
         JedisConnectionFactory.setPoolConfig(jedisPoolConfig);
         //IP地址
-        JedisConnectionFactory.setHostName("127.0.0.1");
+        JedisConnectionFactory.setHostName("192.168.2.163");
         //端口号
         JedisConnectionFactory.setPort(6379);
         //如果Redis设置有密码
@@ -592,13 +594,14 @@ public class RedisUtil {
         redisTemplate.setValueSerializer(new GenericJackson2JsonRedisSerializer());
         // 开启事务
         redisTemplate.setEnableTransactionSupport(true);
-        redisTemplate.setConnectionFactory(JedisConnectionFactory);
+        redisTemplate.setConnectionFactory(JedisConnectionFactory);*/
 
 
         /*java 代码直接使用  redis   主要用于测试redis的启动问题*/
 
-        JedisPool jedisPool=new JedisPool(jedisPoolConfig,"127.0.0.1",6379);
-        Jedis jedis = jedisPool.getResource();
+        //JedisPool jedisPool=new JedisPool(jedisPoolConfig,"192.168.2.163",6379);
+       // Jedis jedis = jedisPool.getResource();
+        Jedis jedis =new Jedis("192.168.2.163",6379);
         jedis.auth("123456");
         jedis.set("1223","11");
         jedis.get("1223");
